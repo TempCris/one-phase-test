@@ -1,0 +1,4 @@
+node_modules/
+**/*.json
+dist/
+src/javascript/declarations.d.ts
